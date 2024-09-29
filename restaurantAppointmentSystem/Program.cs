@@ -6,6 +6,18 @@
 //will not add a detail if it is already existing or already assigned to a customer.
  class Program
  {
+LinkedList<Customer> Customers = new LinkedList<Customer>();
 
-    
+public Customer SearchInfo(string name)
+{
+    foreach (Customer customer in Customers)
+    {
+        if (customer.Name.ToLower() == name.ToLower())
+        {
+            return customer;
+        }
+    }
+    return null;
+}
+
  }
