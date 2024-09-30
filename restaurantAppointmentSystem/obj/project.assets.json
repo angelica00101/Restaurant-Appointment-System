@@ -8,24 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Clarence\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Acer\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Clarence\\coding 101\\2nd year\\VSCODEc#\\Restaurant-Appointment-System\\Restaurant-Appointment-System\\restaurantAppointmentSystem\\restaurantAppointmentSystem.csproj",
+      "projectUniqueName": "C:\\Users\\Acer\\Desktop\\group 3 resto appoint. system\\restaurantAppointmentSystem\\restaurantAppointmentSystem.csproj",
       "projectName": "restaurantAppointmentSystem",
-      "projectPath": "C:\\Users\\Clarence\\coding 101\\2nd year\\VSCODEc#\\Restaurant-Appointment-System\\Restaurant-Appointment-System\\restaurantAppointmentSystem\\restaurantAppointmentSystem.csproj",
-      "packagesPath": "C:\\Users\\Clarence\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Clarence\\coding 101\\2nd year\\VSCODEc#\\Restaurant-Appointment-System\\Restaurant-Appointment-System\\restaurantAppointmentSystem\\obj\\",
+      "projectPath": "C:\\Users\\Acer\\Desktop\\group 3 resto appoint. system\\restaurantAppointmentSystem\\restaurantAppointmentSystem.csproj",
+      "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Acer\\Desktop\\group 3 resto appoint. system\\restaurantAppointmentSystem\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Clarence\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -33,7 +28,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -72,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

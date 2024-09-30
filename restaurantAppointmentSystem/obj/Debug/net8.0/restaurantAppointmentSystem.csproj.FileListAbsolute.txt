@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\group 3 resto appoint. system\restaurantAppointmentSystem\obj\Debug\net8.0\restaurantAppointmentSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\group 3 resto appoint. system\restaurantAppointmentSystem\obj\Debug\net8.0\restaurantAppointmentSystem.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\group 3 resto appoint. system\restaurantAppointmentSystem\obj\Debug\net8.0\restaurantAppointmentSystem.AssemblyInfo.cs
+C:\Users\Acer\Desktop\group 3 resto appoint. system\restaurantAppointmentSystem\obj\Debug\net8.0\restaurantAppointmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\group 3 resto appoint. system\restaurantAppointmentSystem\obj\Debug\net8.0\restaurantAppointmentSystem.sourcelink.json
+C:\Users\Acer\Desktop\group 3 resto appoint. system\restaurantAppointmentSystem\bin\Debug\net8.0\restaurantAppointmentSystem.exe
+C:\Users\Acer\Desktop\group 3 resto appoint. system\restaurantAppointmentSystem\bin\Debug\net8.0\restaurantAppointmentSystem.deps.json
+C:\Users\Acer\Desktop\group 3 resto appoint. system\restaurantAppointmentSystem\bin\Debug\net8.0\restaurantAppointmentSystem.runtimeconfig.json
+C:\Users\Acer\Desktop\group 3 resto appoint. system\restaurantAppointmentSystem\bin\Debug\net8.0\restaurantAppointmentSystem.dll
+C:\Users\Acer\Desktop\group 3 resto appoint. system\restaurantAppointmentSystem\bin\Debug\net8.0\restaurantAppointmentSystem.pdb
+C:\Users\Acer\Desktop\group 3 resto appoint. system\restaurantAppointmentSystem\obj\Debug\net8.0\restaurantAppointmentSystem.dll
+C:\Users\Acer\Desktop\group 3 resto appoint. system\restaurantAppointmentSystem\obj\Debug\net8.0\refint\restaurantAppointmentSystem.dll
+C:\Users\Acer\Desktop\group 3 resto appoint. system\restaurantAppointmentSystem\obj\Debug\net8.0\restaurantAppointmentSystem.pdb
+C:\Users\Acer\Desktop\group 3 resto appoint. system\restaurantAppointmentSystem\obj\Debug\net8.0\restaurantAppointmentSystem.genruntimeconfig.cache
+C:\Users\Acer\Desktop\group 3 resto appoint. system\restaurantAppointmentSystem\obj\Debug\net8.0\ref\restaurantAppointmentSystem.dll
